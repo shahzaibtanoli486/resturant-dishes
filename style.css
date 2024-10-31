@@ -1,0 +1,38 @@
+.header{
+    background-color: black;
+    text-align: center;
+    list-style-type: none;
+    font-size: large;
+    width: 400px;
+    height: 200px;
+   
+}
+.eat{
+    background-color: rosybrown;
+    font-size: 50px;
+    color: crimson;
+    gap: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.list {
+    color: #fff;
+    font-size: large;
+}
+body{
+    margin: 0px;
+    padding:0px;
+}
+h1 {
+    color: crimson;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.son{
+    width: 300px;
+    background-color:bisque;
+    display:block;
+    text-align: center;
+}
+.foam{
+    width: 350px;
+    background-color:lightgray;
+}
